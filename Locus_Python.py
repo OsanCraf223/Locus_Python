@@ -48,7 +48,7 @@ def open_file():
 master_window = Tk()
 
 # Set application icon (requires LocusImage.png in the same directory)
-icon = PhotoImage(file="LocusImage.png")
+icon = PhotoImage(file="locusImage.png")
 master_window.iconphoto(False, icon)
 
 # Set the window title
